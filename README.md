@@ -1,1 +1,2 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HowDoIprintHelloWorld&how_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+Many more of my open source projects to be found on my Replit!
+https://replit.com/@RedCurrent
